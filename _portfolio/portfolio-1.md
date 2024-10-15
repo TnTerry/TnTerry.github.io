@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Self-Learning and Teacher-Guided Paradigms in Language Model Alignment"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
