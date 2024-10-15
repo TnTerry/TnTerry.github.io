@@ -1,10 +1,10 @@
 ---
 title: "Unified Uncertain Dual-prompts cross-domain Segmentation framework for medical image segmentation"
 collection: publications
-category: manuscripts
+category: submitted papers
 permalink: /publication/UUDS
 excerpt: 'Ziyuan Qin, Lihan Wang, Yuting Shao, Tianxu Jiang, Qikui Zhu'
-# date: 2009-10-01
+date: 2024-10-14
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'

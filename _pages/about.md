@@ -20,6 +20,11 @@ I am now working as an research intern at Prof. [Liang Zhao](https://cs.emory.ed
 
 I have contributed to a project on the [Self-Learning and Teacher-Guided Paradigms in Language Model Alignment](https://github.com/jmtitan/Self-Reward-RLHF). Our team successfully enhanced the performance of the [Phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/), achieving results that surpass those of several larger models in head-to-head comparisons. Additionally, our improved Phi-2 model approached the performance levels of significantly larger models in AlpacaEval 2.0 benchmarks. 
 
+## Internship Experience
+
+I have interned at Data and AI Research Center of [China Pacific Insurance Group](https://www.cpic.com.cn/) in Shanghai, China where I worked on a project based on High-Resolution Net (HRNet) for facial analysis.
+
+
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website

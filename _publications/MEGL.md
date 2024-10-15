@@ -1,10 +1,10 @@
 ---
 title: "Multimodal Explanation-Guided Learning"
 collection: publications
-category: manuscripts
+category: working papers
 permalink: /publication/MEGL
 excerpt: 'Yifei Zhang, Tianxu Jiang (Equal Contribution), Xiaofeng Yang, Liang Zhao'
-# date: 2010-10-01
+date: 2024-10-14
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
