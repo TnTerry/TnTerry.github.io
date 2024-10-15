@@ -1,6 +1,10 @@
 ---
 title: "Self-Learning and Teacher-Guided Paradigms in Language Model Alignment"
-excerpt: "Exploring Self-Learning and Teacer-Guided paradigms with Phi-2<br/><img src='images/SelfReward.png'>"
+# excerpt: "Exploring Self-Learning and Teacer-Guided paradigms with Phi-2<br/><img src='images/SelfReward.png'>"
+excerpt: |
+  Exploring Self-Learning and Teacher-Guided paradigms with Phi-2
+  <br/>
+  <img src='/images/SelfReward.png' alt="Self-Learning Paradigm Illustration">
 collection: portfolio
 ---
 
