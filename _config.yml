@@ -81,10 +81,10 @@ publication_category:
     title: 'Manuscripts'
   conferences:
     title: 'Conference Papers'
-  # submitted papers:
-  #   title: 'Submitted Papers'
-  # working papers:
-  #   title: 'Working Papers'
+  submitted papers:
+    title: 'Submitted Papers'
+  working papers:
+    title: 'Working Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
