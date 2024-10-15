@@ -24,8 +24,8 @@ author:
   avatar           : "Terry.jpg"
   name             : "Tianxu Jiang"
   pronouns         : "he/his"  
-  bio              : "Graduate Student at University of Michigan"
-  location         : "U.S."
+  bio              : "Graduate Student"
+  # location         : "U.S."
   employer         : "University of Michigan"
   uri              : # URL
   email            : "tianxuj@umich.edu" 
