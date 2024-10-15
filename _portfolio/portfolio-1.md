@@ -19,7 +19,7 @@ And our contribution includes:
 
 # Framework
 
-![Framework](images/SelfReward.png)
+![Framework](/images/SelfReward.png)
 
 Our Framework consists of three pipeline: Self reward alignment, teacher reward alignment and
 teacher demonstration alignment. Each pipeline iteratively trains a series of models M1, . . . ,MT
@@ -34,3 +34,12 @@ demonstrations). We thus define the models and the corresponding training data a
 
 # Experiment
 
+We use Phi-2 as our base model, Gemini Pro 1.0 as our teacher model, and GPT-4 turbo as our AI preference model. We evaluate the performance of our models on AlpacaEval 2.0 benchmark and head-to-head comparisons for instruction following ability. For reward modeling, we evaluate the correlation with GPT-4 rankings. 
+
+![AlpacaEval](/images/SelfReward-AlpacaEval.png)
+
+![Head-to-Head1](/images/SelfReward-head2head1.png)
+
+![reward](/images/SelfReward-corr.png)
+
+More details can be found in the [paper](/files/Exploring_Self-Learning_and_Teacher-Guided_Paradigms_in_Language_Model_Alignment.pdf).
