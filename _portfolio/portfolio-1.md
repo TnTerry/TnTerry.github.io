@@ -18,12 +18,12 @@ And our contribution includes:
 ![Framework](images/SelfReward.png)
 
 Our Framework consists of three pipeline: Self reward alignment, teacher reward alignment and
-teacher demonstration alignment. Each pipeline iteratively trains a series of models $M_1, . . . ,M_T$
-where each successive model t uses augmented training data created by the $t − 1^{th}$ model (or teacher
+teacher demonstration alignment. Each pipeline iteratively trains a series of models M1, . . . ,MT
+where each successive model t uses augmented training data created by the t − 1th model (or teacher
 demonstrations). We thus define the models and the corresponding training data as follows:
 
-- $M_0$ : Base pretrained LLM with no fine-tuning
-- $M_1$ : Initialized with $M_0$, then fine-tuned on the IFT+EFT seed data using SFT
+- M0 : Base pretrained LLM with no fine-tuning
+- M1 : Initialized with M0, then fine-tuned on the IFT+EFT seed data using SFT
 - M2 : Initialized with M1, then trained with self reward (M1) data using DPO
 - M2 (Teacher reward): Initialized with M1, then trained with teacher reward data using DPO
 - M2 (Teacher demonstration): Initialized with M1, then trained with teacher demonstration data using DPO
