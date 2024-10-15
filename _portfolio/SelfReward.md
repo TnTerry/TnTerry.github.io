@@ -6,7 +6,6 @@ excerpt: |
   <br/>
   <img src='/images/SelfReward.png' alt="Self-Learning Paradigm Illustration">
 collection: portfolio
-date: 2024-5-1
 ---
 
 # Core Contribution
