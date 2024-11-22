@@ -1,5 +1,5 @@
 ---
-title: "Multimodal Explanation-Guided Learning"
+title: "MEGL: Multimodal Explanation-Guided Learning"
 # excerpt: "Exploring Self-Learning and Teacer-Guided paradigms with Phi-2<br/><img src='images/SelfReward.png'>"
 excerpt: |
   A framework that integrates supervision on textual and visual explanations
