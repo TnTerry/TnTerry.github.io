@@ -3,7 +3,7 @@ title: "MEGL: Multimodal Explanation-Guided Learning"
 collection: publications
 category: preprint
 permalink: /publication/MEGL
-excerpt: 'Yifei Zhang, Tianxu Jiang (Equal Contribution), Bo Pan, Jingyu Wang, Guangji Bai, Liang Zhao'
+excerpt: 'Yifei Zhang*, Tianxu Jiang* (Equal Contribution), Bo Pan, Jingyu Wang, Guangji Bai, Liang Zhao'
 date: 2024-11-15
 paperurl: 'https://arxiv.org/abs/2411.13053'
 # venue: 'Journal 1'
