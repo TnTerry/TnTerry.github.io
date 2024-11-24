@@ -4,7 +4,7 @@ title: "LLaVA-Recipe: Visual Instruction Tuning Enhanced Food Recipe VQA"
 excerpt: |
   Augment the capability of LLaVA for generating detailed cooking recipes from visual input
   <br/>
-  <img src='/images/LLaVARecipeStructure' alt="Evaluation Approach">
+  <img src='/images/LLaVARecipeSturcture.jpg' alt="Evaluation Approach">
 collection: portfolio
 ---
 
