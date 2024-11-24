@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second year graduate student at University of Michigan. I had my bachelor's degree in statistics from Fudan University. 
 
-My research interests include multimodal models, explainable AI, and medical AI. 
+My research interests include **multimodal models** and **explainable AI**. 
 
 Aside from work, I’m interested in playing games, watching animations, and cycling. If you have any interest in common, please feel free to contact me!
 
