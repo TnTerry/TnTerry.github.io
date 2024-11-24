@@ -20,13 +20,9 @@ I will be applying for Ph.D. programs at Fall 2025. If you have any opportunity,
 
 ## Reserch Experience
 
-I am now working as an research intern at Prof. [Liang Zhao](https://cs.emory.edu/~lzhao41/)'s lab at Emory University. I am working on multimodal models (especially in medical field) and explainable AI. 
+I am now working as an research intern at Prof. Liang Zhao's lab at Emory University. I am working on multimodal models (especially in medical field) and explainable AI. 
 
-I have contributed to a project on the [Self-Learning and Teacher-Guided Paradigms in Language Model Alignment](https://github.com/jmtitan/Self-Reward-RLHF). Our team successfully enhanced the performance of the [Phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/), achieving results that surpass those of several larger models in head-to-head comparisons. Additionally, our improved Phi-2 model approached the performance levels of significantly larger models in AlpacaEval 2.0 benchmarks. 
-
-## Internship Experience
-
-I have interned at Data and AI Research Center of [China Pacific Insurance Group](https://www.cpic.com.cn/) in Shanghai, China where I worked on a project based on High-Resolution Net (HRNet) for facial analysis.
+I have interned at Data and AI Research Center of [China Pacific Insurance Group](https://www.cpic.com.cn/) in Shanghai where I worked on a project based on High-Resolution Net (HRNet) for facial analysis.
 
 
 
