@@ -42,4 +42,4 @@ We use Phi-2 as our base model, Gemini Pro 1.0 as our teacher model, and GPT-4 t
 
 ![reward](/images/SelfReward-corr.png)
 
-More details can be found in the [paper](/files/Exploring_Self-Learning_and_Teacher-Guided_Paradigms_in_Language_Model_Alignment.pdf).
+More details can be found in the [paper](/files/Exploring_Self-Learning_and_Teacher-Guided_Paradigms_in_Language_Model_Alignment.pdf) and the [code](https://github.com/jmtitan/Self-Reward-RLHF).
