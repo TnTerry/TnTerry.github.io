@@ -14,8 +14,6 @@ My research interests include **multimodal models** and **explainable AI**.
 
 Aside from work, I’m interested in playing games, watching animations, and cycling. If you have any interest in common, please feel free to contact me!
 
-I will be applying for Ph.D. programs at Fall 2025. If you have any opportunity, please feel free to contact me.
-
 # Selected Experience
 
 ## Reserch Experience
